@@ -1,0 +1,5 @@
+{
+    "name": "demo-payment-service",
+    "version": "0.0.0",
+    "description": "Demo microservice for BOSS versioning — Tier 1 Critical (Payment/Core API Service)"
+}
