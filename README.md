@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository is part of the **BOSS Versioning System** demo. It represents a **Tier 1 Critical** microservice — changes here carry the highest weight in determining the BOSS Application Version .
+This repository is part of the **BOSS Versioning System** demo. It represents a **Tier 1 Critical** microservice — changes here carry the highest weight in determining the BOSS Application Version    .
 
 ## Branch Structure
 
