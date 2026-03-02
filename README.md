@@ -2,7 +2,7 @@
 
 > **BOSS Demo Microservice — Tier 1 (Critical)**
 >
-> Simulates the Payment / Core API   Service in the BOSS application ecosystem. 
+> Simulates the Payment / Core API   Service in the BOSS application ecosystem
 
 ---
 
